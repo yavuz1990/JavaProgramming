@@ -10,6 +10,8 @@ public class RemoveDuplicates {
 
         int[] arr = {1,1,1,2,2,2,2,3,3,3,3,3,4,4,4,4,4};
 
+
+
         arr = removeDuplicates(arr);
 
         System.out.println(Arrays.toString(arr));
